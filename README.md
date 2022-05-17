@@ -1,6 +1,6 @@
 ### Overview
 ---
-*Investment pool* full version.
+* pool* full version.
 
 ### Run
 ---
